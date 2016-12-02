@@ -6,6 +6,10 @@ Udacity: https://www.udacity.com/course/deep-learning--ud730
 
 Youtube: https://www.youtube.com/watch?v=iF8dRePlPUo&list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV
 
+Exercises: https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity
+
+## Assignments
+
 assignment1 : LinearRegression
 
 assignment2 : NN
